@@ -1,0 +1,33 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm files
+.idea/
+
+# VS Code files
+.vscode/
+
+# Logs
+*.log
+
+# Model cache
+.cache/
+.huggingface/
